@@ -50,15 +50,21 @@ to a HubSpot portal.
 ## Projects using Developer Projects
 
 #### Official
-- [UI Extension Examples](https://github.com/HubSpot/ui-extensions-examples) - Examples of UI extensions built with HubSpot CRM development tools beta
-- [HubSpot Project Components](https://github.com/HubSpot/hubspot-project-components) - Provides sample components for HubSpot projects
-- [CMS JS Building Block Examples](https://github.com/HubSpot/cms-js-building-block-examples) - Several example projects to introduce developers to JS building blocks on the HubSpot CMS
+- [UI Extension Examples](https://github.com/HubSpot/ui-extensions-examples) - Examples of UI extensions built with HubSpot CRM development tools beta.
+- [HubSpot Project Components](https://github.com/HubSpot/hubspot-project-components) - Provides sample components for HubSpot projects.
+- [CMS JS Building Block Examples](https://github.com/HubSpot/cms-js-building-block-examples) - Several example projects to introduce developers to JS building blocks on the HubSpot CMS.
 #### Open Source
 - [Appointment Scheduler](https://github.com/Triippz/HubSpotServiceScheduler) - Example application of how to make a HubSpot UI React Extension w/ a NestJS backend using HubSpot Developer Projects.
 
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
+
+To the extent possible under law, `triippz` has waived all copyright and
+related or neighboring rights to this work.
 
 ## Affiliation
 While maintainers of this project may be HubSpot employees, this project is not an official project of HubSpot and is not affiliated with HubSpot.
