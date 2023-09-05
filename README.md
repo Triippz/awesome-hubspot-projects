@@ -54,7 +54,7 @@ to a HubSpot portal.
 - [HubSpot Project Components](https://github.com/HubSpot/hubspot-project-components) - Provides sample components for HubSpot projects.
 - [CMS JS Building Block Examples](https://github.com/HubSpot/cms-js-building-block-examples) - Several example projects to introduce developers to JS building blocks on the HubSpot CMS.
 #### Open Source
-- [Appointment Scheduler](https://github.com/Triippz/HubSpotServiceScheduler) - Example application of how to make a HubSpot UI React Extension w/ a NestJS backend using HubSpot Developer Projects.
+- [RepairHub](https://github.com/Triippz/RepairHub) - Example application of a service company using HubSpot Developer Projects to build their Business on HubSpot. This project is a WIP and will evolve as the feature-set of projects grows. This also includes examples of how to connect to 3rd party (backoffice APIs).
 
 ## Contribute
 
